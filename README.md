@@ -26,7 +26,7 @@ let attempts = 0;
 let bar;
 
 // as long as it takes....
-while(true) {
+do {
   try {
     attempts++;
     bar = barIdea.fullfill();
@@ -37,9 +37,9 @@ while(true) {
   } finally {
     console.log("Attempt #" + attempts);
   }
-}
+} while(true);
 
-union.moveInto(bar.upstairs);
+union.moveInto(bar.upstairs.address);
 union.happilyEverAfter();
 
 /*********** THE END *************/
