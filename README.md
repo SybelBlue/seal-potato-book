@@ -4,6 +4,6 @@
 
 2. The Great Divide: When natural disasters cause a problem.
 
-3. Reunion: Seal and potato find eachother again.
+3. Reunion: Seal and potato find each other again.
 
 4. Serenity: Seal and Potato move in together and start a bar.
